@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+#include <string>
 
 double add_sum(int &a, int&b){
    double sum{0};

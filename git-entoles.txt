@@ -1,0 +1,20 @@
+--git remote add origin : Github, gitlab etc, sthn ousia vazoume to repository sto terminal
+
+--git add hello_world.cpp : Add to git
+
+--git commit -m "hello_world.cpp added" : When we add a file or make a change, we write a comment tou see the history later
+
+--git status : Showsus the status of our files
+
+--git log : Show us all the changes in folder with their comments
+
+--git show : Show us the last change we did 
+
+--git diff: Show us the last change before we add the file
+
+--git checkout hello_world.cpp : If i changed something by mistake, this command reverse the changes should be done before the git commit
+
+
+
+
+
